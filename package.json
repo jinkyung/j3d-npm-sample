@@ -1,0 +1,31 @@
+{
+  "name": "j3d-npm-sample",
+  "version": "1.0.0",
+  "description": "NPM sample package publish test",
+  "main": "dist/j3dSampleModule.js",
+  "files": [
+    "dist"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jinkyung/j3d-npm-sample.git"
+  },
+  "author": {
+    "name": "J1",
+    "email": "jinkyungj@gmail.com",
+    "url": "https://j3d-team.github.io"
+  },
+  "keywords": [
+    "J3D",
+    "tutorial",
+    "NPM",
+    "module",
+    "package",
+    "publish"
+  ],
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jinkyung/j3d-npm-sample/issues"
+  },
+  "homepage": "https://github.com/jinkyung/j3d-npm-sample#readme"
+}

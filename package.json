@@ -1,6 +1,6 @@
 {
   "name": "j3d-npm-sample",
-  "version": "1.0.0",
+  "version": "1.0.2",
   "description": "NPM sample package publish test",
   "main": "dist/j3dSampleModule.js",
   "files": [
